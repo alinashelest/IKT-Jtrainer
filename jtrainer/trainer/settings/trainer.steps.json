@@ -1,0 +1,37 @@
+[
+    {
+        "filename"      :   "introduction",
+        "score"         :   0,
+        "hasScript"     :   true
+    },
+    {
+        "filename"      :   "step1",
+        "score"         :   20,
+        "hasScript"     :   true
+    },
+    {
+        "filename"      :   "step2",
+        "score"         :   20,
+        "hasScript"     :   true
+    },
+    {
+        "filename"      :   "step3",
+        "score"         :   20,
+        "hasScript"     :   true
+    },
+    {
+        "filename"      :   "step4",
+        "score"         :   20,
+        "hasScript"     :   true
+    },
+    {
+        "filename"      :   "step5",
+        "score"         :   20,
+        "hasScript"     :   true
+    },
+    {
+        "filename"      :   "results",
+        "score"         :   0,
+        "hasScript"     :   true
+    }
+]
